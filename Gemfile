@@ -2,6 +2,8 @@
 
 source 'https://rubygems.org'
 
+require 'rubygems'
+
 # needed for Jekyll
 gem 'jekyll'
 gem 'webrick'
