@@ -4,6 +4,7 @@
 # create small and thumb images for image and pdf files in the 'objects' folder
 ###############################################################################
 
+require 'rubygems'
 require 'image_optim' unless Gem.win_platform?
 require 'mini_magick'
 
