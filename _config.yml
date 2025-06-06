@@ -50,8 +50,8 @@ metadata: collection-repository
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "This site was built using CollectionBuilder: a template for creating digital collection exhibits using static web technology, developed at the Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+# organization-name: "This site was built using CollectionBuilder: a template for creating digital collection exhibits using static web technology, developed at the Center for Digital Inquiry and Learning (CDIL)"
+# organization-link: https://cdil.lib.uidaho.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
